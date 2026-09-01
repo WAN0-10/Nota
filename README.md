@@ -1,4 +1,4 @@
-# notes_v1 📝
+# Nota 📝
 
 A Flutter-based productivity app combining a **To-Do list**, **Notes panel**, and a **Daily Journal** into a single, lightweight interface.
 Inspired by 
