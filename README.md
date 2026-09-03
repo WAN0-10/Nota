@@ -1,7 +1,6 @@
 # Nota 📝
 
 A Flutter-based productivity app combining a **To-Do list**, **Notes panel**, and a **Daily Journal** into a single, lightweight interface.
-Inspired by 
 
 This project is my first Flutter application. It started as a simple To-Do app and naturally grew into something more useful, because minimalism is great until you actually want features.
 
